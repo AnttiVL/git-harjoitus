@@ -1,6 +1,6 @@
 const scpi_choice_def_t scpi_special_numbers_current[] = {
     {.name = "MAX",       .tag = 0},
-    {.name = "MIN",       .tag = 1},
+    {.name = "MINIMUM",       .tag = 1},
     SCPI_CHOICE_LIST_END,
 };
 
